@@ -172,3 +172,7 @@ img:hover {
   border: 3px solid rgb(0, 0, 0);
   margin: 30px;
 }
+
+.text-1{
+  font-size: 25px;
+}
